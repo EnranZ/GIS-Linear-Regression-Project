@@ -8,7 +8,7 @@ The goal of this project is to understand how environmental factors such as vege
 ## Features
 - Data cleaning and preprocessing (handling missing values)
 - Feature standardization using Z-score normalization
-- Linear regression modeling using scikit-learn
+- Linear regression modeling using scikit learn
 - Model evaluation using R² and Mean Squared Error (MSE)
 - Visualization of actual vs predicted values
 
@@ -24,7 +24,7 @@ The goal of this project is to understand how environmental factors such as vege
 ## Tools & Technologies
 - Python
 - Pandas
-- Scikit-learn
+- Scikit learn
 - Matplotlib
 
 ## Workflow
